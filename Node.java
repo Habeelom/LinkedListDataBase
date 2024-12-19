@@ -1,4 +1,4 @@
-package assignment2;
+
 //this class is used to define the node used in the double ended doubly linked list
 public class Node {
 	String key;
