@@ -1,4 +1,4 @@
-package assignment2;
+
 
 //In the IndexArray class I implement a double ended doubly linked list that stores the 
 //records.
