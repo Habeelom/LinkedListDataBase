@@ -1,4 +1,3 @@
-package assignment2;
 
 // This class introduces the DataBaseRecord which is used elsewhere in the project
 
