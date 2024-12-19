@@ -1,10 +1,3 @@
-/* Habeel, Omar                  
-   E02659531                         
-   COSC 311- Fall 2024    
-   Program #2
-   */
-
-package assignment2;
 
 import java.util.*;
 
