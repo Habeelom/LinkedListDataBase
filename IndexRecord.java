@@ -1,4 +1,4 @@
-package assignment2;
+
 
 // This class introduces the IndexRecord used in other classes and utilizes two parameters: where and key
 public class IndexRecord {
